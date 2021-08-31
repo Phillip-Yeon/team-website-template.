@@ -22,6 +22,8 @@ This is the website preview, if you want to see the site click the link bellow.
 
 https://phillip-yeon.github.io/team-website-template./
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## The current process of the website.
 
 The website has completed the V.1.0 desktop version. And in a purple theme. The website is currently not in a responsive version, and will be updated, And the final easy use of class and identification user freindly name.
