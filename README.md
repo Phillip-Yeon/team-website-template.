@@ -5,7 +5,7 @@ This is a desktop only version of a site template for a minecraft or other teams
 
 ## What is this website template for?
 
-This website template is a HTMl and CSS based website template, and the backend work and server work is not included. ANd this website template is for.
+This website template is a HTML and CSS based website template, and the backend work and server work is not included. And this website template is for.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
